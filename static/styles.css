@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.game-container {
+    border: 2px solid black;
+}
+
+.webcam-container {
+    border: 2px solid black;
+}
